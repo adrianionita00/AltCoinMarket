@@ -1,0 +1,7 @@
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarket\bin\Debug\AltCoinMarket.dll.config
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarket\bin\Debug\AltCoinMarket.dll
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarket\bin\Debug\AltCoinMarket.pdb
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarket\bin\Debug\Jayrock.Json.dll
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarket\obj\Debug\AltCoinMarket.dll
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarket\obj\Debug\AltCoinMarket.pdb
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarket\obj\Debug\AltCoinMarketConsumerLibrary.csprojResolveAssemblyReference.cache
