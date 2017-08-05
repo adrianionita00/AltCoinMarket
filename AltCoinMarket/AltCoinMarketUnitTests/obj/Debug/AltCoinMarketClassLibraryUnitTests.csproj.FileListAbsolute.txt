@@ -1,0 +1,9 @@
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\bin\Debug\AltCoinMarketUnitTests.dll
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\bin\Debug\AltCoinMarketUnitTests.pdb
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\bin\Debug\AltCoinMarket.dll
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\bin\Debug\Jayrock.Json.dll
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\bin\Debug\AltCoinMarket.pdb
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\obj\Debug\AltCoinMarketClassLibraryUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\obj\Debug\AltCoinMarketUnitTests.dll
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\obj\Debug\AltCoinMarketUnitTests.pdb
+C:\Users\adrian\Google Drive\Dropbox\AltCoinMarket\AltCoinMarket\AltCoinMarketUnitTests\bin\Debug\AltCoinMarketUnitTests.dll.config
