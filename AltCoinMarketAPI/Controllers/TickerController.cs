@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using AltCoinMarketAPI.Models;
 using AltCoinMarketConsumerLibrary;
+using Newtonsoft.Json;
 
 namespace AltCoinMarketAPI.Controllers
 {
@@ -34,13 +35,15 @@ namespace AltCoinMarketAPI.Controllers
             //return Ok(ticker);
 
             KrakenConsumer consumer = new KrakenConsumer();
-            var ticker = consumer.GetTicker(new List<string> { Constants.CurrencyPairs.BTCUSD });
+            Jayrock.Json.JsonObject response = consumer.GetTicker(new List<string> { Constants.CurrencyPairs.BTCUSD });
+            //ticker = (Ticker)Jayrock.Json.Conversion.JsonConvert.Import(typeof(Ticker), response.ToString());
+            ticker = JsonConvert.DeserializeObject<Ticker>(response.ToString());
 
             if (ticker == null)
             {
                 return NotFound();
             }
-            return Ok(ticker);
+            return Ok(ticker);            
         }
     }
 }

@@ -6,11 +6,8 @@ using AltCoinMarketConsumerLibrary;
 
 namespace AltCoinMarketAPI.Models
 {
-    public class Ticker
+    public class XXBTZUSD
     {
-        public List<object> error { get; set; }
-        public string currencyPair { get; set; }
-
         public List<string> a { get; set; }
         public List<string> b { get; set; }
         public List<string> c { get; set; }
@@ -20,7 +17,35 @@ namespace AltCoinMarketAPI.Models
         public List<string> l { get; set; }
         public List<string> h { get; set; }
         public string o { get; set; }
-    }   
+    }
+
+    public class Result
+    {
+        public XXBTZUSD XXBTZUSD { get; set; }
+    }
+
+    public class Ticker
+    {
+        public List<object> error { get; set; }
+        public Result result { get; set; }
+    }
+
+
+    //public class Ticker
+    //{
+    //    public List<object> error { get; set; }
+    //    public string currencyPair { get; set; }
+
+    //    public List<string> a { get; set; }
+    //    public List<string> b { get; set; }
+    //    public List<string> c { get; set; }
+    //    public List<string> v { get; set; }
+    //    public List<string> p { get; set; }
+    //    public List<int> t { get; set; }
+    //    public List<string> l { get; set; }
+    //    public List<string> h { get; set; }
+    //    public string o { get; set; }
+    //}
 
     //<pair_name> = pair name
     //a = ask array(<price>, <whole lot volume>, <lot volume>),
