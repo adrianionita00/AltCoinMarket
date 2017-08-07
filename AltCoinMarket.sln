@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltCoinMarketConsumerLibrar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltCoinMarketAPI", "AltCoinMarketAPI\AltCoinMarketAPI.csproj", "{A0452768-B842-49C6-A14E-505F2250B131}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltCoinMarketAngularJsUI", "AltCoinMarketAngularJsUI\AltCoinMarketAngularJsUI.csproj", "{99D10B82-C451-4889-B37C-F4341B2A3BA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A0452768-B842-49C6-A14E-505F2250B131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0452768-B842-49C6-A14E-505F2250B131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0452768-B842-49C6-A14E-505F2250B131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D10B82-C451-4889-B37C-F4341B2A3BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D10B82-C451-4889-B37C-F4341B2A3BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D10B82-C451-4889-B37C-F4341B2A3BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D10B82-C451-4889-B37C-F4341B2A3BA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
